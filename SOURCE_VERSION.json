@@ -1,0 +1,6 @@
+{
+  "release_id": "rgss-voc-coco-source-20261016",
+  "name": "RGSS",
+  "upstream": "https://github.com/zwyang6/ExCEL",
+  "upstream_commit": "2cd7f510d62793c76365268a2cc4da7cbe915e4d"
+}
